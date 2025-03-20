@@ -1,0 +1,19 @@
+# Private fork specific ignores
+**/private-notes/
+**/sensitive/
+**/*.key
+**/*.secret
+**/*.private
+
+# Keep these directories local
+experiments/*
+!experiments/.gitkeep
+notes/*
+!notes/.gitkeep
+projects/*
+!projects/.gitkeep
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store 
