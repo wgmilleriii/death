@@ -1,0 +1,26 @@
+# Photo working files
+*.psd
+*.xcf
+*.ai
+
+# RAW files
+*.raw
+*.cr2
+*.nef
+*.arw
+*.dng
+
+# Temporary files
+.DS_Store
+Thumbs.db
+._*
+
+# Large binary files
+*.zip
+*.tar.gz
+*.7z
+
+# Keep these files using Git LFS
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.webp filter=lfs diff=lfs merge=lfs -text 
