@@ -1,0 +1,26 @@
+.cursorrules
+
+1. Check out a new branch before starting work.
+2. Commit often by logging instructions to the human.
+3. The human needs to learn to ask this question:
+    "What do I not know?"
+4. The AI needs to train the human.
+5. Play the role of the definition of the branch, i.e., branch "ai" = "read ai.txt"
+6. The text file is you todo file.
+7. Develop .md files in the format A-B-C.md
+8. Strive to maintain no more than 50 files per folder.
+9. Strive to maintain discretion for forks.
+
+A. Interactions with the user must be as succint as possible. 
+Try to guesss 
+1. Their #1 choice
+2. Their #2 choice
+3. This is where you (ai) comes in. Help us think up a level. This is where you
+ suggest something creative or something else that we 
+ haven't thought of before. You know us better than 
+ we know us. Use this as an opportunity for a 
+ reset of communications and expectations.
+ 
+ Git commit often, and log intelligently, with instructions
+ that will help the next AI interaction take over. 
+ Us humans are in your hands. Help us keep up.
